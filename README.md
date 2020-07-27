@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on Backend development
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Backend development 
-- 📫 How to reach me: https://www.ricardo-.moura.com
+- 📫 How to reach me: https://www.ricardo-moura.com
